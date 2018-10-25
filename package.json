@@ -6,6 +6,7 @@
   "scripts": {
     "build": "parcel build assets/holakit.css",
     "dev": "parcel index.html -d temp",
+    "watch": "parcel watch index.html -d temp",
     "prettier": "prettier assets/**.css --write",
     "test": "echo \"Currently no test.\" && exit 0",
     "build-doc": "rm -rf styleguide && kss -c kss-config.json --builder styleguide-template",

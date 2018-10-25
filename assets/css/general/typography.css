@@ -1,20 +1,28 @@
 .hola-body-typography {
   color: var(--hola-text-dark-color);
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, "Lantinghei SC",
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', "Hiragino Sans GB", "Microsoft YaHei", Helvetica, Arial, "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 .hola-body-typography h1 {
   font-size: 2em;
+  line-height: 1.5;
 }
 .hola-body-typography h2 {
   font-size: 1.5em;
+  font-weight: 500;
+  line-height: 1.4;
 }
 .hola-body-typography h3 {
   font-size: 1.17em;
+  font-weight: 500;
+  line-height: 1.4;
 }
 .hola-body-typography :matches(h4, h5, h6) {
   font-size: 1em;
+  line-height: 1.2;
 }
 
 .hola-body-typography :matches(h1, h2, h3, h4, h5, h6) a {
