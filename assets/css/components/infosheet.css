@@ -30,13 +30,13 @@ Styleguide Components - Info Sheet
 .hola-infosheet-row .hola-infosheet-key {
   display: inline-block;
   width: 30%;
-  padding-right: .5em;
+  padding-right: .5rem;
   font-weight: bold;
   text-align: right;
 }
 
 .hola-infosheet-row .hola-infosheet-value {
   width: 70%;
-  padding-left: .5em;
+  padding-left: .5rem;
   float: right;
 }

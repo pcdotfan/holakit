@@ -36,6 +36,11 @@ Styleguide Components - Cards - Basic
   color: var(--hola-text-dark-color);
   background-size: cover;
   background-position: center;
+  transition: all 0.6s ease;
+}
+
+.hola-card:hover {
+  box-shadow: 0 8px 25px 0 rgba(146, 146, 146, 0.21);
 }
 
 a .hola-card * {

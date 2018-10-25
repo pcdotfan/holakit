@@ -6,6 +6,10 @@
   width: 100%;
 }
 
+.hola-table {
+  font-size: 1rem;
+}
+
 .hola-table thead {
   box-shadow: 0 -2px 0 #ccc inset;
   color: rgba(0, 0, 0, 0.6);
@@ -21,9 +25,9 @@
 }
 
 .hola-table th {
-  padding: 0.6em;
+  padding: 0.6rem;
 }
 
 .hola-table td {
-  padding: 0.4em 0.5em;
+  padding: .5rem;
 }
