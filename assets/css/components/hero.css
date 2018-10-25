@@ -16,7 +16,7 @@
 }
 
 .hola-hero .hola-hero-content {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   padding: 15vh 0;
 }
 
@@ -36,7 +36,7 @@
     min-height: 25vh;
   }
   .hola-hero .hola-hero-content {
-    font-size: 1.3em;
+    font-size: 1.3rem;
     padding: 3vh 0;
   }
   .hola-hero-height-extended {

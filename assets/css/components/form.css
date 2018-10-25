@@ -2,10 +2,10 @@
   background: #fff;
   border-radius: 0;
   border: 1px solid #ccc;
-  font-size: 1em;
+  font-size: .875rem;
   line-height: 1.5;
   transition: 0.5s;
-  padding: 0.44em 0.7em;
+  padding: 0.44rem 0.7rem;
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
@@ -20,7 +20,7 @@
 .hola-form-ctrl.hola-input-multiline {
   display: block;
   width: 100%;
-  margin: 0.15em 0;
+  margin: 0.15rem 0;
 }
 
 .hola-form-ctrl.hola-input-singleline + .hola-button {

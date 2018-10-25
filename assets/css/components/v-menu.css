@@ -7,9 +7,9 @@
 .hola-vmenu .hola-vmenu-item a {
   display: block;
   text-decoration: none;
-  line-height: 3em;
+  line-height: 3rem;
   transition: 0.3s all ease;
-  padding: 0 1em;
+  padding: 0 1rem;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
